@@ -47,8 +47,9 @@ pip install -r requirements.txt
 
 3. Run the MCP server locally
 python server.py
+```
 
-☁️ Deployment
+## ☁️ Deployment
 
 The MCP server was deployed to MCP Cloud
 
@@ -60,7 +61,7 @@ Remote accessibility
 
 Tool exposure correctness
 
-✅ Key Learnings
+## ✅ Key Learnings
 
 MCP server lifecycle
 
@@ -70,7 +71,7 @@ Cloud-based AI infrastructure basics
 
 Debugging MCP communication issues
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Add authenticated tool access
 
@@ -80,26 +81,17 @@ Logging and monitoring support
 
 Production-grade deployment setup
 
-📖 References
+## 📖 References
 
 MCP Documentation
 
 MCP Cloud Deployment Guides
 
-👤 Author
+## 👤 Author
 
 Prasanna Madiwar
 AI/ML Engineering Intern Aspirant
 GitHub: https://github.com/PrasannaMadiwar
 
 
----
-
-### Next step
-Send the **next repository link**, and I will:
-- Match README depth to project complexity
-- Optimize wording for **internship reviewers**
-- Ensure **AI/ML relevance is clearly visible**
-
-Ready when you are.
 
