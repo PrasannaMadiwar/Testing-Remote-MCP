@@ -37,17 +37,17 @@ esting-Remote-MCP/
 
 ## ⚙️ Setup & Installation
 
-1. Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/PrasannaMadiwar/Testing-Remote-MCP.git
 cd Testing-Remote-MCP
-
-2.  Install dependencies
-pip install -r requirements.txt
-
-3. Run the MCP server locally
-python server.py
 ```
+
+### 2.  Install dependencies
+```pip install -r requirements.txt```
+
+### 3. Run the MCP server locally
+``` python server.py```
 
 ## ☁️ Deployment
 
@@ -90,8 +90,8 @@ MCP Cloud Deployment Guides
 ## 👤 Author
 
 Prasanna Madiwar
-AI/ML Engineering Intern Aspirant
 GitHub: https://github.com/PrasannaMadiwar
+
 
 
 
